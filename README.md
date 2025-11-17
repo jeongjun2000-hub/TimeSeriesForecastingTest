@@ -1,7 +1,7 @@
 # 비트코인 가격 예측 및 트레이딩 전략 프로젝트 📈💰
 
-[![Open Lab Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/TimeSeriesPrediction/blob/main/lab_notebook.ipynb)
-[![Open Assignment in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/TimeSeriesPrediction/blob/main/assignment_notebook.ipynb)
+[![Open Lab Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juho127/TimeSeriesForecastingTest/blob/main/lab_notebook.ipynb)
+[![Open Assignment in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juho127/TimeSeriesForecastingTest/blob/main/assignment_notebook.ipynb)
 
 머신러닝을 활용하여 비트코인의 가격 변화 방향을 예측하고, **수익률을 극대화하는 트레이딩 전략**을 개발하는 실습 프로젝트입니다.
 
@@ -90,8 +90,8 @@ if torch.cuda.is_available():
     print(f"GPU: {torch.cuda.get_device_name(0)}")
 
 # GitHub에서 파일 다운로드 (저장소가 있는 경우)
-!git clone https://github.com/YOUR_USERNAME/TimeSeriesPrediction.git
-%cd TimeSeriesPrediction
+!git clone https://github.com/juho127/TimeSeriesForecastingTest.git
+%cd TimeSeriesForecastingTest
 
 # 또는 utils.py 파일 수동 업로드
 from google.colab import files
