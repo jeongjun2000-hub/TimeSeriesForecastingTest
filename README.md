@@ -44,6 +44,11 @@
 ---
 
 ## 4. 성과 분석 (Performance Analysis)
+### 📈 수익률 비교 그래프
+![수익률 그래프](<img width="913" height="609" alt="image" src="https://github.com/user-attachments/assets/708e5b00-3acf-4bd7-915c-e1d5f70ac174" />)
+* 빨간색 실선(My Model)이 검은색 점선(Buy and Hold)을 꾸준히 상회하는 것을 확인할 수 있습니다.
+
+
 
 ### 📊 벤치마크 비교 결과
 | 구분 | 수익률 (Return) | 거래 횟수 | 비고 |
