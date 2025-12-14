@@ -54,9 +54,9 @@
 | **My Model** | **+24.21%** | 41회 | **Alpha: +24.72%p** |
 | Buy and Hold | -0.51% | 1회 | 시장 하락/횡보세 |
 
+
 <img width="909" height="607" alt="image" src="https://github.com/user-attachments/assets/5805416a-95d8-4098-8c46-989e9b754e55" />
 
-*(여기에 수익률 그래프 이미지를 캡처해서 넣으면 완벽합니다)*
 
 ### 💡 결과 해석 및 고찰
 1.  **압도적인 초과 수익 (+24.72%p):**
